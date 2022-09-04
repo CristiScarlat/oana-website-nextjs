@@ -1,0 +1,16 @@
+.video-container {
+    height: 80%;
+    overflow-y: auto;
+}
+
+video {
+    width: 30%;
+    height: auto;
+    margin: 0.5rem;
+  }
+
+  @media only screen and (max-width: 760px){
+      video {
+          width: 90%;
+      }
+  }

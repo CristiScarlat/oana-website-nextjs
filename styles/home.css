@@ -1,0 +1,126 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Pushster&display=swap');*/
+
+body{
+    /*font-family: 'Pushster', cursive;*/
+    font-family: sans-serif;
+    font-size: 12px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: whitesmoke;
+    background: black;
+    letter-spacing: 0.1rem;
+    line-height: 1.5rem;
+    height: 100vh;
+}
+
+::-webkit-scrollbar {
+    width: 12px;               /* width of the entire scrollbar */
+}
+
+::-webkit-scrollbar-track {
+    background: rgb(19, 19, 19);;        /* color of the tracking area */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgb(43, 43, 44);    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 3px solid rgb(19, 19, 19);  /* creates padding around scroll thumb */
+}
+
+#__next {
+    height: 100%;
+    display: flex;
+    flex-direction: column;  
+}
+
+main {
+    margin-top: 3.125rem;
+    flex: auto;
+}
+
+.home-button {
+    position: fixed;
+    top: 50%;
+    left: calc(50% - 100px);
+    width: 200px;
+    background: #0000003b;
+    outline: none;
+    border: 1px solid gray;
+    border-radius: 4px;
+    padding: 1rem;
+    text-align: center;
+    color: gray;
+    font-weight: 700;
+    letter-spacing: 0.1rem;
+}
+
+.home-button:hover {
+    background: #00000091;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.link-active {
+    color: 'white'!important; 
+    font-weight: 'bold'!important;
+}
+
+.home-card-main {
+    width: fit-content;
+    /* border: 1px solid gray; */
+}
+
+.home-card-image {
+    object-fit: cover;
+    height: 320px;
+    width: 320px;
+    border-radius: 50%;
+}
+
+.home-card-album {
+    position: relative;
+}
+
+.home-card-image {
+    cursor: pointer;
+    margin: 1rem;
+    transition: all 0.7s ease-in-out;
+}
+
+/* .home-card-image:hover {
+    opacity: 0.2;
+    transform: rotateY(180deg);
+} */
+
+/* .home-card-image:hover~.home-card-text-image {
+    visibility: visible;
+} */
+
+.home-card-text-image {
+    font-weight: 800;
+    width: 320px;
+    margin: auto;
+    text-align: center;
+    color: gray;
+    /* visibility: hidden;*/
+}
+
+.spinner-fixed {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+}
+
+@media only screen and (max-width: 760px){
+    .home-container p{
+        color: grey;
+        margin: unset;
+        font-size: unset;
+        letter-spacing: unset;
+    }
+
+}
+
+@media only screen and (min-width: 760px){
+
+}

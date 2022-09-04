@@ -1,0 +1,91 @@
+.albums-tabs-container {
+    border-color: rgb(65, 64, 64);
+    font-size: larger;
+    text-transform: capitalize;
+    margin-top: 1rem;
+}
+
+.albums-tab {
+    border: 1px solid rgb(158, 158, 158);
+    color: whitesmoke;
+    background: none;
+}
+
+.albums-tabs-container a:hover{
+    border: 1px solid rgb(158, 158, 158);
+    color: black;
+    background: whitesmoke;
+    font-weight: bold;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+    border: 1px solid #343a40;
+    color: #f8f9fa;
+    background: #343a40;
+}
+
+.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
+    border: 1px solid #343a40;
+    color: #f8f9fa;
+    background: #343a4075;
+    font-weight: bold;
+}
+
+.tab-content {
+    display: flex;
+    height: 80%;
+    overflow-y: auto;
+    padding: 0 1rem 1rem 1rem;
+}
+
+.gallery-swipe-container {
+    display: flex;
+    flex: 0 0 auto;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.gallery-swipe-container img{
+    object-fit: cover;
+    height: 320px;
+    width: 320px;
+    margin: 0.5rem;
+}
+
+.fade {
+    transition: opacity .5s linear;
+}
+.pswp__caption__center{
+    text-align: center;
+    font-weight: 600;
+}
+
+hr {
+    margin-top: 0;
+    margin-bottom: 0;
+    border: 0;
+    border-top: 1px solid rgb(65 64 64);
+}
+
+.description-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 3rem 0;
+    background: #000000f0;
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    padding: 10%;
+}
+
+.portofolio-aside {
+    white-space: nowrap;
+    border-right: 1px solid #80808073;
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem;
+    font-size: 18px;
+    line-height: 2rem;
+}

@@ -1,0 +1,475 @@
+{
+  "24Hours": [
+    {
+      "img": "/albums/24Hours/00.Magician_Lightning_The_Moon.jpg",
+      "name": "Magician_Lightning_The_Moon",
+      "aspectRatio": 1.0448979591836736
+    },
+    {
+      "img": "/albums/24Hours/01.Midnight_II.jpg",
+      "name": "Midnight_II",
+      "aspectRatio": 1.9248120300751879
+    },
+    {
+      "img": "/albums/24Hours/02.Midnight_meeting.jpg",
+      "name": "Midnight_meeting",
+      "aspectRatio": 0.9884169884169884
+    },
+    {
+      "img": "/albums/24Hours/03.Nutcracker.jpg",
+      "name": "Nutcracker",
+      "aspectRatio": 0.6513994910941476
+    },
+    {
+      "img": "/albums/24Hours/04.Midnight.jpg",
+      "name": "Midnight",
+      "aspectRatio": 0.6666666666666666
+    }
+  ],
+  "amanita": [
+    {
+      "img": "/albums/amanita/01.jpg",
+      "name": "",
+      "aspectRatio": 1.0158730158730158
+    },
+    {
+      "img": "/albums/amanita/02.jpg",
+      "name": "",
+      "aspectRatio": 0.6881720430107527
+    }
+  ],
+  "childhood-spaces": [
+    {
+      "img": "/albums/childhood-spaces/01.Fairy_Tale_City_I.jpg",
+      "name": "Fairy_Tale_City_I",
+      "aspectRatio": 1.4301675977653632
+    },
+    {
+      "img": "/albums/childhood-spaces/02.Nightfall_in_the_Fairy_Tale_City.jpg",
+      "name": "Nightfall_in_the_Fairy_Tale_City",
+      "aspectRatio": 1
+    },
+    {
+      "img": "/albums/childhood-spaces/03.Fairy_Tale_City_II.jpg",
+      "name": "Fairy_Tale_City_II",
+      "aspectRatio": 1.0118577075098814
+    },
+    {
+      "img": "/albums/childhood-spaces/04.Fairy_Tale_City_In_The_Moonlight.jpg",
+      "name": "Fairy_Tale_City_In_The_Moonlight",
+      "aspectRatio": 0.9961089494163424
+    },
+    {
+      "img": "/albums/childhood-spaces/05.Nocturnal_House.jpg",
+      "name": "Nocturnal_House",
+      "aspectRatio": 1.003921568627451
+    },
+    {
+      "img": "/albums/childhood-spaces/06.The_City_Of_The_Red_Emperor.jpg",
+      "name": "The_City_Of_The_Red_Emperor",
+      "aspectRatio": 0.6937669376693767
+    },
+    {
+      "img": "/albums/childhood-spaces/07.Snowfall_Over_The_City.jpg",
+      "name": "Snowfall_Over_The_City",
+      "aspectRatio": 1
+    },
+    {
+      "img": "/albums/childhood-spaces/08.View_Of_The_City.jpg",
+      "name": "View_Of_The_City",
+      "aspectRatio": 0.9922480620155039
+    }
+  ],
+  "digital-prints": [
+    {
+      "img": "/albums/digital-prints/01.The_returning_Back_RGB.jpg",
+      "name": "The_returning",
+      "aspectRatio": 0.7071823204419889
+    },
+    {
+      "img": "/albums/digital-prints/02.Inside_The_dream_RGB.jpg",
+      "name": "Inside_The_dream",
+      "aspectRatio": 0.7071823204419889
+    },
+    {
+      "img": "/albums/digital-prints/03.The_Entrance_to_The_Dream.jpg",
+      "name": "The_Entrance_to_The_Dream",
+      "aspectRatio": 0.7071823204419889
+    },
+    {
+      "img": "/albums/digital-prints/04.A_Night_of_chimeras.jpg",
+      "name": "A_Night_of_chimeras",
+      "aspectRatio": 0.7950310559006211
+    },
+    {
+      "img": "/albums/digital-prints/05.Prepare_to_fly_my_Ebony_Horse.jpg",
+      "name": "Prepare_to_fly_my_Ebony_Horse",
+      "aspectRatio": 0.6937669376693767
+    },
+    {
+      "img": "/albums/digital-prints/06.The_song_of_the_Moon.jpg",
+      "name": "The_song_of_the_Moon",
+      "aspectRatio": 0.6956521739130435
+    },
+    {
+      "img": "/albums/digital-prints/07.The_meeting.jpg",
+      "name": "The_meeting",
+      "aspectRatio": 0.7377521613832853
+    }
+  ],
+  "hidden-places": [
+    {
+      "img": "/albums/hidden-places/01.Inside_The_Hollow.jpg",
+      "name": "Inside_The_Hollow",
+      "aspectRatio": 1.003921568627451
+    },
+    {
+      "img": "/albums/hidden-places/02.The_Trip.jpg",
+      "name": "The_Trip",
+      "aspectRatio": 0.9961089494163424
+    },
+    {
+      "img": "/albums/hidden-places/03.Into_the_Chimney.jpg",
+      "name": "Into_the_Chimney",
+      "aspectRatio": 1.003921568627451
+    },
+    {
+      "img": "/albums/hidden-places/04.Nocturnal_Caravan.jpg",
+      "name": "Nocturnal_Caravan",
+      "aspectRatio": 0.9961089494163424
+    },
+    {
+      "img": "/albums/hidden-places/05.The_Secret_Window.jpg",
+      "name": "The_Secret_Window",
+      "aspectRatio": 1.0078740157480315
+    },
+    {
+      "img": "/albums/hidden-places/06.The_Eclipse.jpg",
+      "name": "The_Eclipse",
+      "aspectRatio": 1.032258064516129
+    },
+    {
+      "img": "/albums/hidden-places/07.The_Illusionist's_House.jpg",
+      "name": "The_Illusionist's_House",
+      "aspectRatio": 1
+    },
+    {
+      "img": "/albums/hidden-places/08.The_Shadow.jpg",
+      "name": "The_Shadow",
+      "aspectRatio": 0.9884169884169884
+    },
+    {
+      "img": "/albums/hidden-places/09.The_Journal_I.jpg",
+      "name": "The_Journal_I",
+      "aspectRatio": 1
+    },
+    {
+      "img": "/albums/hidden-places/10.The_Journal_II.jpg",
+      "name": "The_Journal_II",
+      "aspectRatio": 1.0158730158730158
+    },
+    {
+      "img": "/albums/hidden-places/11.The_Journal_III.jpg",
+      "name": "The_Journal_III",
+      "aspectRatio": 1
+    },
+    {
+      "img": "/albums/hidden-places/12.The_jurnal_IV.jpg",
+      "name": "The_jurnal_IV",
+      "aspectRatio": 1.003921568627451
+    }
+  ],
+  "hypnotic": [
+    {
+      "img": "/albums/hypnotic/01.Eyes_closed.jpg",
+      "name": "Eyes_closed",
+      "aspectRatio": 0.6736842105263158
+    },
+    {
+      "img": "/albums/hypnotic/02.The_Flight.jpg",
+      "name": "The_Flight",
+      "aspectRatio": 1
+    },
+    {
+      "img": "/albums/hypnotic/03.A_Stop_To_The_Magic_Rosette.jpg",
+      "name": "A_Stop_To_The_Magic_Rosette",
+      "aspectRatio": 0.9884169884169884
+    },
+    {
+      "img": "/albums/hypnotic/04.The_Magic_Flute.jpg",
+      "name": "The_Magic_Flute",
+      "aspectRatio": 1.1906976744186046
+    },
+    {
+      "img": "/albums/hypnotic/05.The_Magic_Flight.jpg",
+      "name": "The_Magic_Flight",
+      "aspectRatio": 1.3989071038251366
+    },
+    {
+      "img": "/albums/hypnotic/06.The_Secret_Room.jpg",
+      "name": "The_Secret_Room",
+      "aspectRatio": 0.6259168704156479
+    },
+    {
+      "img": "/albums/hypnotic/07.The_Secret_Path.jpg",
+      "name": "The_Secret_Path",
+      "aspectRatio": 0.7052341597796143
+    },
+    {
+      "img": "/albums/hypnotic/08.Midnight.jpg",
+      "name": "Midnight",
+      "aspectRatio": 1
+    },
+    {
+      "img": "/albums/hypnotic/09.The_Gate_Of_The_Deep_Sleep.jpg",
+      "name": "The_Gate_Of_The_Deep_Sleep",
+      "aspectRatio": 0.7231638418079096
+    },
+    {
+      "img": "/albums/hypnotic/10.The_Musician.jpg",
+      "name": "The_Musician",
+      "aspectRatio": 0.7191011235955056
+    },
+    {
+      "img": "/albums/hypnotic/11.The_Mirror_Of_The_Night.jpg",
+      "name": "The_Mirror_Of_The_Night",
+      "aspectRatio": 1.0078740157480315
+    },
+    {
+      "img": "/albums/hypnotic/12.The_Moon's_Gate.jpg",
+      "name": "The_Moon's_Gate",
+      "aspectRatio": 0.8205128205128205
+    },
+    {
+      "img": "/albums/hypnotic/13.The_Room_Of_The_Moon.jpg",
+      "name": "The_Room_Of_The_Moon",
+      "aspectRatio": 1.003921568627451
+    },
+    {
+      "img": "/albums/hypnotic/14.The_Palace_Of_The_Moon.jpg",
+      "name": "The_Palace_Of_The_Moon",
+      "aspectRatio": 0.8366013071895425
+    },
+    {
+      "img": "/albums/hypnotic/15.Blinking_Eyes.jpg",
+      "name": "Blinking_Eyes",
+      "aspectRatio": 0.6183574879227053
+    },
+    {
+      "img": "/albums/hypnotic/16.Hypnotic._Time_is_irreversible.jpg",
+      "name": "Time_is_irreversible",
+      "aspectRatio": 1.003921568627451
+    }
+  ],
+  "ilustrations": [
+    {
+      "img": "/albums/ilustrations/00.jpg",
+      "name": "",
+      "aspectRatio": 0.7441860465116279
+    },
+    {
+      "img": "/albums/ilustrations/01.jpg",
+      "name": "",
+      "aspectRatio": 0.6994535519125683
+    },
+    {
+      "img": "/albums/ilustrations/02.jpg",
+      "name": "",
+      "aspectRatio": 0.750733137829912
+    },
+    {
+      "img": "/albums/ilustrations/03.jpg",
+      "name": "",
+      "aspectRatio": 0.9808429118773946
+    },
+    {
+      "img": "/albums/ilustrations/04.jpg",
+      "name": "",
+      "aspectRatio": 0.7272727272727273
+    },
+    {
+      "img": "/albums/ilustrations/05.jpg",
+      "name": "",
+      "aspectRatio": 1
+    },
+    {
+      "img": "/albums/ilustrations/06.jpg",
+      "name": "",
+      "aspectRatio": 1.1906976744186046
+    },
+    {
+      "img": "/albums/ilustrations/07.jpg",
+      "name": "",
+      "aspectRatio": 1.0364372469635628
+    },
+    {
+      "img": "/albums/ilustrations/08.jpg",
+      "name": "",
+      "aspectRatio": 0.6305418719211823
+    },
+    {
+      "img": "/albums/ilustrations/09.jpg",
+      "name": "",
+      "aspectRatio": 0.8533333333333334
+    },
+    {
+      "img": "/albums/ilustrations/10.jpg",
+      "name": "",
+      "aspectRatio": 0.7272727272727273
+    },
+    {
+      "img": "/albums/ilustrations/11.jpg",
+      "name": "",
+      "aspectRatio": 1.1082251082251082
+    },
+    {
+      "img": "/albums/ilustrations/12.jpg",
+      "name": "",
+      "aspectRatio": 1.1130434782608696
+    },
+    {
+      "img": "/albums/ilustrations/13.jpg",
+      "name": "",
+      "aspectRatio": 1.2075471698113207
+    },
+    {
+      "img": "/albums/ilustrations/14.jpg",
+      "name": "",
+      "aspectRatio": 0.839344262295082
+    },
+    {
+      "img": "/albums/ilustrations/15.jpg",
+      "name": "",
+      "aspectRatio": 0.6975476839237057
+    },
+    {
+      "img": "/albums/ilustrations/16.jpg",
+      "name": "",
+      "aspectRatio": 0.7111111111111111
+    }
+  ],
+  "oneiric-trip": [
+    {
+      "img": "/albums/oneiric-trip/01.The_Sign_Of_The_Astronauts_I.jpg",
+      "name": "The_Sign_Of_The_Astronauts_I",
+      "aspectRatio": 1.0158730158730158
+    },
+    {
+      "img": "/albums/oneiric-trip/02.The_Messenger_II.jpg",
+      "name": "The_Messenger_II",
+      "aspectRatio": 1.003921568627451
+    },
+    {
+      "img": "/albums/oneiric-trip/03.Floating.jpg",
+      "name": "Floating",
+      "aspectRatio": 0.6994535519125683
+    },
+    {
+      "img": "/albums/oneiric-trip/04.The_Eclipse.jpg",
+      "name": "The_Eclipse",
+      "aspectRatio": 1
+    },
+    {
+      "img": "/albums/oneiric-trip/05.The_Sign_Of_The_Astronauts_II.jpg",
+      "name": "The_Sign_Of_The_Astronauts_II",
+      "aspectRatio": 0.9961089494163424
+    },
+    {
+      "img": "/albums/oneiric-trip/06.Oniric_Perfume.jpg",
+      "name": "Oniric_Perfume",
+      "aspectRatio": 1.003921568627451
+    },
+    {
+      "img": "/albums/oneiric-trip/07.The_Sign_Of_The_Astronauts_III.jpg",
+      "name": "The_Sign_Of_The_Astronauts_III",
+      "aspectRatio": 1
+    },
+    {
+      "img": "/albums/oneiric-trip/08.The_Silence.jpg",
+      "name": "The_Silence",
+      "aspectRatio": 1.0078740157480315
+    },
+    {
+      "img": "/albums/oneiric-trip/09.Mysterious_Arrival.jpg",
+      "name": "Mysterious_Arrival",
+      "aspectRatio": 1.032258064516129
+    },
+    {
+      "img": "/albums/oneiric-trip/10.The_Messenger_I.jpg",
+      "name": "The_Messenger_I",
+      "aspectRatio": 0.9961089494163424
+    },
+    {
+      "img": "/albums/oneiric-trip/11.View_The_Earth.jpg",
+      "name": "View_The_Earth",
+      "aspectRatio": 1.0078740157480315
+    },
+    {
+      "img": "/albums/oneiric-trip/12.Nightly_Dance.jpg",
+      "name": "Nightly_Dance",
+      "aspectRatio": 1.062240663900415
+    },
+    {
+      "img": "/albums/oneiric-trip/13.Mirroring.jpg",
+      "name": "Mirroring",
+      "aspectRatio": 1.0158730158730158
+    },
+    {
+      "img": "/albums/oneiric-trip/14.Melancholy.jpg",
+      "name": "Melancholy",
+      "aspectRatio": 0.9961089494163424
+    },
+    {
+      "img": "/albums/oneiric-trip/15.Contemplating....jpg",
+      "name": "Contemplating...",
+      "aspectRatio": 0.9846153846153847
+    },
+    {
+      "img": "/albums/oneiric-trip/16.Mysterious_Mirror.jpg",
+      "name": "Mysterious_Mirror",
+      "aspectRatio": 1.032258064516129
+    }
+  ],
+  "the-realm-of-fairy-tales": [
+    {
+      "img": "/albums/the-realm-of-fairy-tales/03.The_Black_Balls.jpg",
+      "name": "The_Black_Balls",
+      "aspectRatio": 1
+    },
+    {
+      "img": "/albums/the-realm-of-fairy-tales/04.Midnight_II.jpg",
+      "name": "Midnight_II",
+      "aspectRatio": 0.9961089494163424
+    },
+    {
+      "img": "/albums/the-realm-of-fairy-tales/05.Balloon_Trip_To_Fairyland.jpg",
+      "name": "Balloon_Trip_To_Fairyland",
+      "aspectRatio": 1.0199203187250996
+    },
+    {
+      "img": "/albums/the-realm-of-fairy-tales/06.The_Magical_Mirror_Within_The_Enchanted_Tree...find_the_keys!.jpg",
+      "name": "The_Magical_Mirror_Within_The_Enchanted_Tree...find_the_keys!",
+      "aspectRatio": 1.0118577075098814
+    },
+    {
+      "img": "/albums/the-realm-of-fairy-tales/07.Boat_Trip_To_Fairyland.jpg",
+      "name": "Boat_Trip_To_Fairyland",
+      "aspectRatio": 1.0281124497991967
+    },
+    {
+      "img": "/albums/the-realm-of-fairy-tales/08.The_Secret_Entrance_In_The_Nocturnal_Castle.jpg",
+      "name": "The_Secret_Entrance_In_The_Nocturnal_Castle",
+      "aspectRatio": 1.003921568627451
+    },
+    {
+      "img": "/albums/the-realm-of-fairy-tales/09.The_Magic_Key.jpg",
+      "name": "The_Magic_Key",
+      "aspectRatio": 1.0199203187250996
+    },
+    {
+      "img": "/albums/the-realm-of-fairy-tales/10.Ballon_Trip_To_Fairyland.jpg",
+      "name": "Ballon_Trip_To_Fairyland",
+      "aspectRatio": 1.0199203187250996
+    }
+  ]
+}
