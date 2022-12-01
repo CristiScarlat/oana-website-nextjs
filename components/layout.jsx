@@ -43,6 +43,8 @@ const Layout = ({ children }) => {
           name="description"
           content="Personal website of Phd artist Oana Blog-Bleich displaying Oil on canvas and mixed technics art items."
         />
+        <meta name="keywords" content="painting, art, artist, oil on canvas, pictura, arta, ulei pe panza, Timisoara"></meta>
+        <meta name="google-site-verification" content="AvQ_4H_H4IXlzPR7e63i4Cf9j-u2hn6WbEMxON9DdtI" />
         {/*Facebook Meta Tags*/}
         <meta property="og:url" content="https://www.oanabologbleich.com" />
         <meta property="og:type" content="website" />
