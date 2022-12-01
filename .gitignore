@@ -38,4 +38,3 @@ next-env.d.ts
 
 # build & static
 .next
-_static
