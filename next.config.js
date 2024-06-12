@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  basePath: "/github-pages/oana-website-nextjs",
-  assetPrefix: "/oana-website-nextjs"
+  basePath: "/oanabologbleich.com",
+  assetPrefix: "/oanabologbleich.com"
 }
 
 module.exports = nextConfig
