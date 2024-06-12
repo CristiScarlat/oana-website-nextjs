@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  basePath: "/oana-website-nextjs",
+  basePath: "/github-pages/oana-website-nextjs",
   assetPrefix: "/oana-website-nextjs"
 }
 
