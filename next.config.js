@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   basePath: "/github-pages",
-  assetPrefix: "/"
+  assetPrefix: "/oana-website-nextjs"
 }
 
 module.exports = nextConfig
